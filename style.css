@@ -143,7 +143,7 @@ body {
 }
 
 /*Aqui vao estar as medias queries onde disponibilizaremos o site em versões mobile*/
-@media (max-width: 1000px) {
+@media (max-width: 850px) {
     .container {
         flex-direction: column-reverse;
 }
